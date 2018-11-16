@@ -128,6 +128,10 @@ Using big artists as an example for remix culture docent really gives us the ful
 
 Going back to the opening quote on the meaning of freedom: no fear, being free to create means no fear of punishment for creativity. Empowering to create, tearing down barriers of entry and promoting creative works are characteristics of a remix culture. On the other hand you have a consumer culture, a place that encourages the consumption of media only, being feed entrainment through the television screen constantly is a world we could create, this is also commonly refereed as a _read only culture_. Professor and political activist Lawrence Lessig coined this term of read only culture, analogous to a computer's hard drive, culture can both read and write content to itself.
 
+
+<!-- Lessig, L. (2009). Remix: Making art and commerce thrive in the hybrid economy. New York, N.Y: Penguin Books. -->
+
+
 Read - write culture and remix culture are used interchangeably due to Lawrence's analogy, in other words free culture and remix culture is a culture of innovation and creativity first. The most obvious example of constant remix and editing of content and probably the example you are most familiar with is _Internet culture_.
 
 Great minds taking notes and inspiration from one another and basing their designs and works through tedious amounts of labor is a thing of the past, now with the connections provided via the web, we can all easily copy, transform and combine any work with a few clicks or taps of the finger. The world wide web was a strange place at the beginning, nobody knew how to use this new medium: Should you create a website, about what topic? and then what? do you leave it there forever in hopes somebody discovered it like a hidden gem? well if natural history had taught us anything is that _evolution always wins_, at one point of humanity's history we had a similar problem: how will an individual human survive? well by developing a society, one might not stand against the terrors of nature but a group will stand a better chance. And so the net became social, people realized that there is no difference between the best website with nobody to share it with than no website at all and so we formed online groups and Internet culture began to form.
@@ -136,9 +140,22 @@ The interactions between Internet users begun to shift towards free culture, sin
 
 Think of it like newspaper headlines, the writer of a story or report wants their story to reach more people to increase sales and therefore their salary, so a writer asks himself: _How can I capture the most hears and minds with one story?_ Writer 'A' might write about something controversial, like politics, and writer 'B' may make a story about something popular like a celebrity pop star. Both articles A & B are fighting for the publics attention and only the more interesting article will win in the end, writers like Jeff Weiss won the attention of the public on October 30 2018 by combining politics and pop stars by writing an article on r&b and rap artist Post Malone and comparing him to Donald Trump among other allegations. Articles from writers A and B are entities fighting for survival via natural selection by the public reader, the ideas behind the articles combined and evolved to form article C. These parallels help un-clutter the field, and we can see the similarities between the spread of popular ideas and natural selection and evolution.
 
-The spread and evolution of genetic information is carried _through the media of genes_, while the spread and evolution of ideas in the general scene is carried _through the media of memes_. Dictionary.com defines a meme as: "_a cultural item that is transmitted by repetition and replication in a manner analogous to the biological transmission of genes._"
 
 
+<!-- Weiss, J. (2018, October 30). Post Malone is the perfect pop star for this American moment. That's not a compliment. Retrieved from https://www.washingtonpost.com/lifestyle/post-malone-is-the-perfect-pop-star-for-this-american-moment-thats-not-a-compliment/2018/10/30/ad6112b8-dbc4-11e8-b732-3c72cbf131f2_story.html?utm_term=.49b24273ed29 -->
+
+
+
+The spread and evolution of genetic information is carried _through the media of genes_, while the spread and evolution of ideas in the general scene is carried _through the media of memes_. Genes carry genetic information while memes carry cultural information, to drive the point further Dictionary.com defines a meme as: "_a cultural item that is transmitted by repetition and replication in a manner analogous to the biological transmission of genes._"
+
+
+<!-- Meme. (n.d.). Retrieved from https://www.dictionary.com/browse/meme -->
+
+The word meme itself is contrived from the Greek word _"μίμημα"_ pronounced as _mīmēma_ [míːmɛːma], it means _to imitate_ or _mimic_, a way to think of it is mimmic-gene or meme for short. Memes go way back, since all ideas are essentially fighting for survival in our minds only the best ideas will be remembered, a classic example of a good meme is clothing, since it was such a good idea to protect our delicate bodies from the outside world we never went back, this meme has engraved itself into our minds. 
+
+
+
+<!-- Meme. (2018, November 06). Retrieved from https://en.wikipedia.org/wiki/Meme#Etymology -->
 
 
 
