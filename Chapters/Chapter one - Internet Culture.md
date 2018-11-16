@@ -64,7 +64,7 @@ Eminem (2000). Stan [Recorded by Eminem]. The Marshall Mathers LP [mp3]. Afterma
 
 
 
-From a happy synth driven instrumental to a calm worship song to a gloomy rap song is as far apart as you can get. sampling and remixing is crucial for songwriting and other creative activities, in the case of music it could be argued that there is a limited number of catchy chord progressions, drum patterns and melodies and this is why picking and matching elements is key to creating a great work of art. The same holds true for literature, movies, poetry, etcetera. A remix culture is a sign of embracing creativity and in a more literal perspective, it can be concluded that innovation and inventions are essentially remixes of previously available media and technology. This view was popularized by the filmmaker Kirby Ferguson on his classic 2010 video essay 'Everything is a Remix'
+From a happy synth driven instrumental to a calm worship song to a gloomy rap song is as far apart as you can get. sampling and remixing is crucial for songwriting and other creative activities, in the case of music it could be argued that there is a limited number of catchy chord progressions, drum patterns and melodies and this is why picking and matching elements is key to creating a great work of art. The same holds true for literature, movies, poetry, etcetera. A remix culture is a sign of embracing creativity and in a more literal perspective, it can be concluded that innovation and inventions are essentially remixes of previously available media and technology. 
 
 > **For educators & food for thought:**
 >
@@ -72,22 +72,83 @@ From a happy synth driven instrumental to a calm worship song to a gloomy rap so
 >
 > Ask yourself: have all the inventions been invented? justify your answer.
 
+
+
+To illustrate this point let's play a simple game, don't read ahead just trust me: I'll tell you the plot to a story and you'll try to guess who is the main character:
+
+There was a state of peace and tranquility on the world, peace driven by the status quo, another day and life stays the same in a etiquette balance like it always has been, we follow our protagonist on the mundane and get to know him but suddenly something happens, a signal is calling for him and he must enroll on his quest, but he can't confront a strange new world on his own so he gets assistance from a new character with great wisdom, now he heads straight in towards his goal, he has great difficulty and faces his greatest challenge and is defeated, the protagonist enters his rock bottom only to recharge and accomplish his greatest challenge, after he succeeds he must gets great treasure from him and has to get out of the strange place he tied himself in, he returns to regular life and finds our that something changed inside him and around him, any loose ends with previous characters gets fixed now and the sorry ends with self reflexion.
+
+So did you guessed whose story was that? if you think I cheated you by describing a vague plot line and that there is no correct answer you'd be wrong! only 50 percent. That was the story about the hero of Joseph Campbell, on his book _The Hero with a Thousand Faces_, he explores the archetypal hero and his writings have sparked great inspiration on the worlds most famous and critically acclaimed storytellers like George Lucas , Bob Dylan, Stanley Kubrick and many others.
+
+In a way all stories about heroes are remixes on the so called _hero's journey_ (the popular term used to refer to Joseph Campbell's hero), an artist heard a story with this structure and it's deep connections with everyday struggles of the common man inspired him to write a similar story.
+
+
+
+>_"Art is the retelling of certain themes in a new light, making them accessible to the public of the moment."_
+>
+>&
+>
+>_"Star Wars has always struck a chord with people. There are issues of loyalty, of friendship, of good and evil... The theme came from stories and ideas that have been around for thousands of years."_
+
+>  George Lucas 
+
 > **Extra resources:**
 >
-> Watch ['Everything is a Remix' by Kirby Ferguson](https://www.youtube.com/watch?v=nJPERZDfyWc)
+> Learn more about [The Hero's Journey](https://www.quora.com/Which-movies-are-the-best-examples-of-the-Heros-Journey-or-monomyth
+)
+
+
+Stories, structures and archetypes are the foundation of all stories, and to remix is analogous to the creative process, just think on all the movies, books, music that is based on another creative work, filmmaker Kirby Ferguson said it best on his classic 2010 video essay 'Everything is a Remix'. Ferguson argues that to remix you need to: _copy, transform and combine_:
+
+>_"It's how you remix. You take existing songs, you chop them up, you transform the pieces, you combine them back together again, you've got a new song, but that new song is clearly comprised of old songs, but I think these aren't just the component of remixing, I think these are the basic elements of all creativity"_
+
+> Kirby Ferguson at TEDGlobal 2012
+
+
+<!-- Ferguson, K. (n.d.). Embrace the remix. Retrieved from https://www.ted.com/talks/kirby_ferguson_embrace_the_remix -->
+
+
+<!--
+Ferguson, K. (2010, October 27). Everything is a Remix. Retrieved from https://www.youtube.com/playlist?list=PLDQ6BYd73QHxgeNJPX8yZRcp8wF_B_tph
+Original source: https://www.everythingisaremix.info/watch-the-series/
+-->
+
+
+
+
+> **Extra resources:**
+>
+> Watch ['Everything is a Remix' by Kirby Ferguson](https://www.youtube.com/watch?v=nJPERZDfyWc) or his [TED Talk](https://www.ted.com/talks/kirby_ferguson_embrace_the_remix)
+
+
+## It rimes with gene
+
+Using big artists as an example for remix culture docent really gives us the full picture, to understand remix culture we are going to dive into how ideas are shared and the title should give you a clue of what this section will build up to. But first of all _what is remix culture?_
+
+
+Going back to the opening quote on the meaning of freedom: no fear, being free to create means no fear of punishment for creativity. Empowering to create, tearing down barriers of entry and promoting creative works are characteristics of a remix culture. On the other hand you have a consumer culture, a place that encourages the consumption of media only, being feed entrainment through the television screen constantly is a world we could create, this is also commonly refereed as a _read only culture_. Professor and political activist Lawrence Lessig coined this term of read only culture, analogous to a computer's hard drive, culture can both read and write content to itself.
+
+Read - write culture and remix culture are used interchangeably due to Lawrence's analogy, in other words free culture and remix culture is a culture of innovation and creativity first. The most obvious example of constant remix and editing of content and probably the example you are most familiar with is _Internet culture_.
+
+Great minds taking notes and inspiration from one another and basing their designs and works through tedious amounts of labor is a thing of the past, now with the connections provided via the web, we can all easily copy, transform and combine any work with a few clicks or taps of the finger. The world wide web was a strange place at the beginning, nobody knew how to use this new medium: Should you create a website, about what topic? and then what? do you leave it there forever in hopes somebody discovered it like a hidden gem? well if natural history had taught us anything is that _evolution always wins_, at one point of humanity's history we had a similar problem: how will an individual human survive? well by developing a society, one might not stand against the terrors of nature but a group will stand a better chance. And so the net became social, people realized that there is no difference between the best website with nobody to share it with than no website at all and so we formed online groups and Internet culture began to form.
+
+The interactions between Internet users begun to shift towards free culture, since there is no cost for reproduction or copy of any online work, no more labor required to copy a text or video or image lead to countless montages and collages of media. The products of early Internet media may seem strange compared to todays Internet media but they both share something in common: their means of survival. Ideas and socially shared media go through a natural selection and evolutionary process just like living organisms, living creatures look to survive nature for as long as possible and ideas look to survive in the minds of the public for as long as possible.
+
+Think of it like newspaper headlines, the writer of a story or report wants their story to reach more people to increase sales and therefore their salary, so a writer asks himself: _How can I capture the most hears and minds with one story?_ Writer 'A' might write about something controversial, like politics, and writer 'B' may make a story about something popular like a celebrity pop star. Both articles A & B are fighting for the publics attention and only the more interesting article will win in the end, writers like Jeff Weiss won the attention of the public on October 30 2018 by combining politics and pop stars by writing an article on r&b and rap artist Post Malone and comparing him to Donald Trump among other allegations. Articles from writers A and B are entities fighting for survival via natural selection by the public reader, the ideas behind the articles combined and evolved to form article C. These parallels help un-clutter the field, and we can see the similarities between the spread of popular ideas and natural selection and evolution.
+
+The spread and evolution of genetic information is carried _through the media of genes_, while the spread and evolution of ideas in the general scene is carried _through the media of memes_. Dictionary.com defines a meme as: "_a cultural item that is transmitted by repetition and replication in a manner analogous to the biological transmission of genes._"
+
+
+
 
 
 <!-- 
-talk about a hero with a thousend faces
-
-Campbell, J. (2008). The hero with a thousand faces. Novato (California): New World Library.
-
-heros journey and exaples like starwars
 
 
-talk about inspiration
 
-coppy transform compine evrything is a remix idea de el
+
+
+
 
 trasnition to mind viruses (memes)
 
@@ -101,6 +162,9 @@ education services
 
 culture and counter culture
 
+ Technology means you can now do amazing things easily; but you couldn't easily do them legally.
+Lawrence Lessig 
+
 copyright vs copyright on the internet
 
 problems with copyright
@@ -113,8 +177,4 @@ software patents
 
 
 
-<!--
-Ferguson, K. (2010, October 27). Everything is a Remix. Retrieved from https://www.youtube.com/playlist?list=PLDQ6BYd73QHxgeNJPX8yZRcp8wF_B_tph
-Original source: https://www.everythingisaremix.info/watch-the-series/
--->
 
