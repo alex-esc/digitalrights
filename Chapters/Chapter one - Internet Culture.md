@@ -4,7 +4,7 @@
 
 Have you ever wondered were do the Internet memes or funny pictures on your phone came from? who made them and why? We know that pictures, jokes and other works of art have to come from someone, usually the question stops here, we came up with an answer and no further discussion is needed, but is this really a satisfactory answer? Media literacy attempts to answer these questions and explore communications mediums and their impact on people. To explore Ethics with a digital perspective means to speak the language before we can ask difficult questions, we must understand the social and technical aspects of the web and software to truly identify problems and to find solutions.
 
-On our everyday life we enjoy discussing movies, music and other commercial products. The majority of us have a fascination for a specific movie, artist or celebrity, talking about media means criticizing and analyzing but very few of us create media rather than consuming it. Or at least this was the case before the Internet: Today more people than ever are creating something new, if you want to write you can open a blog, if you want to make a movie you can open a YouTube account, and little by little more people are getting involved in making new stuff. If you don't consider yourself a creative person you are still involved in making new original works, in past days when we wanted to share a particular moment or story we remembered it and speak about it, today the average teenage docent just chat about cool occurrences or stories, they capture them with apps like Snapchat, Snstagram or Whatsapp, these programs allow you to place stickers over the video or photo, you can add drawings or emojis and text, what was just a regular video was creatively transformed into something bigger than the sum of its parts.
+On our everyday life we enjoy discussing movies, music and other commercial products.Items such as movies, music, literature are media, media is the vehicle that delivers any kind of communication, if we want to say any message it has to be said verbally, that's media, if I wish to spread my message through the television or the Internet, that's media. The majority of us have a fascination for a specific movie, artist or celebrity, talking about media means criticizing and analyzing but very few of us create media rather than consuming it. Or at least this was the case before the Internet: Today more people than ever are creating something new, if you want to write you can open a blog, if you want to make a movie you can open a YouTube account, and little by little more people are getting involved in making new stuff. If you don't consider yourself a creative person you are still involved in making new original works, in past days when we wanted to share a particular moment or story we remembered it and speak about it, today the average teenage docent just chat about cool occurrences or stories, they capture them with apps like Snapchat, Snstagram or Whatsapp, these programs allow you to place stickers over the video or photo, you can add drawings or emojis and text, what was just a regular video was creatively transformed into something bigger than the sum of its parts.
 
 > **For educators & food for thought:**
 >
@@ -98,7 +98,7 @@ In a way all stories about heroes are remixes on the so called _hero's journey_ 
 )
 
 
-Stories, structures and archetypes are the foundation of all stories, and to remix is analogous to the creative process, just think on all the movies, books, music that is based on another creative work, filmmaker Kirby Ferguson said it best on his classic 2010 video essay 'Everything is a Remix'. Ferguson argues that to remix you need to: _copy, transform and combine_:
+Stories, structures and archetypes are the foundation of all stories, and to remix is analogous to the creative process, just think on all the movies, books, music that is based on another creative work, filmmaker Kirby Ferguson said it best on his classic 2010 video essay 'Everything is a Remix'. Ferguson argues that to remix you need to: _copy, transform and combine_.
 
 >_"It's how you remix. You take existing songs, you chop them up, you transform the pieces, you combine them back together again, you've got a new song, but that new song is clearly comprised of old songs, but I think these aren't just the component of remixing, I think these are the basic elements of all creativity"_
 
@@ -146,10 +146,16 @@ Think of it like newspaper headlines, the writer of a story or report wants thei
 
 
 
-The spread and evolution of genetic information is carried _through the media of genes_, while the spread and evolution of ideas in the general scene is carried _through the media of memes_. Genes carry genetic information while memes carry cultural information, to drive the point further Dictionary.com defines a meme as: "_a cultural item that is transmitted by repetition and replication in a manner analogous to the biological transmission of genes._"
+The spread and evolution of genetic information is carried _through the media of genes_, while the spread and evolution of ideas in the general scene is carried _through the media of memes_. Genes carry genetic information while memes carry cultural information, to drive the point further Dictionary.com defines a meme as: "_a cultural item that is transmitted by repetition and replication in a manner analogous to the biological transmission of genes._" The term _meme_ was coined by evolutionary biologist Richard Dawkins on his book tittled _The Selfish Gene_ in 1976.
 
 
 <!-- Meme. (n.d.). Retrieved from https://www.dictionary.com/browse/meme -->
+
+
+
+<!-- Dawkins, R. (1976). The selfish gene. Oxford: Oxford University Press. -->
+
+
 
 The word meme itself is contrived from the Greek word _"μίμημα"_ pronounced as _mīmēma_ [míːmɛːma], it means _to imitate_ or _mimic_, a way to think of it is mimmic-gene or meme for short. Memes go way back, since all ideas are essentially fighting for survival in our minds only the best ideas will be remembered, a classic example of a good meme is clothing, since it was such a good idea to protect our delicate bodies from the outside world we never went back, this meme has engraved itself into our minds. 
 
@@ -158,16 +164,83 @@ The word meme itself is contrived from the Greek word _"μίμημα"_ pronounce
 <!-- Meme. (2018, November 06). Retrieved from https://en.wikipedia.org/wiki/Meme#Etymology -->
 
 
+The intersection between ethics and evolution can quickly diverge into heated debate, mainly due to religion, practically all religions claim that their particular deity or god is the author of morals and ethics, also most religions also hold belief in a creation myth incompatible with evolution, for example the Christian bible claims that Adam was created as a fully formed man in a small period of time, but evolution claims that species change slowly. This is the conflict that religion faces with evolution: was man formed in an instant or over millions of years?
+
+Just mentioning that a conflict is present between evolution and religion may seem offensive to some of you, now imagine how heated these debates can get! While I will not argue about religion or evolution, I will bring up a common criticism of evolution to prove a point. On a public debate on Australian television between Richard Dawkins and Cardinal George Pell a provocative question was asked. Richard as an evolutionary biologist holds the belief that on the question between evolution and religion there is no question about it, Richard advocates for evolution, the question raised against evolution and science was: _Without religion, where is the basis of our values and in time will we perhaps revert back to Darwin´s idea of survival of the fittest?_
+
+Richard replied:
+
+>"_I very much hope we don´t revert back to the idea of survival of the fittest in planing our politics and our values and our way of life. I´ve often said that i´m a passionate Darwinian when it comes to explaining why we exist, it´s undoubtedly the reason why we´re here and why all living things are here. But to live our lives in a darwinian way, to make up a society a Darwinian society, that would be a very unpleasant sort of society in which to live, it will be a sort of thatcher, right? and in a way I feel that one of the lessons of learning about Darwinian evolution is a lesson in how not to set up our values and social life._"
+
+
+
+<!-- Religion and Atheism. (2012, April 9). Retrieved from https://www.abc.net.au/tv/qanda/txt/s3469101.htm -->
+
+
+This robust reply can be summed up as a simple phrase: not because its nature it means it's OK, just because something is popular it means it's good, in the case of this argument Darwinian evolution it's whats "_so popular_", the question can be rephrased as:"_If you believe in evolution so much that you claim it to be true, then why don't we live in a Darwinian society?_" and Ricahrd answer can be rephrased as: "_Not because evolution created modern humans it means that people should behave like survival of the fittest_".
+
+The main takeaway from this reply is that not because something is popular or in place it means it´s morally acceptable, the example of the nature of humankind regarding evolution is one of the most extreme versions of this argument but valid nonetheless, when it comes to our daily lives we encounter a great amount of systems or ideas, some of them work for the good of the public like a hospital, but other systems / ideas may cause severe harm to human kind like slavery. Identifying the wright side and the wrong side between hospitals and slavery is child's play, but we must also identify that some ideas or systems that we approve of might not be functioning for the better of humanity, for example eating meat, most of us eat meat while still holding the idea of how immoral this practice truly is, but we do it anyways. "It's the way it's always been" is not a sufficiently good answer, in the case of animal slaughtering it makes it worst! Remember not because something is popular it means its good, in the case of meat-eating a case based on health could be made, but that docent lift moral blame from us: "We need to slay some living creatures to be healthy" will only teach us how truly cruel we are by nature. Veganism and meat-eating is another heated debate, hard questions like these need to be asked and discussed for morality to move forward.
+
+## Harmful by design
+
+To be critical of the systems on the Internet means to be honest with ourselves regarding design, look around, everything around you except the natural world was purposely designed to fulfill some function or for it's aesthetic value. A pencil is deigned to be ergonomic, yeah indeed the design of a pencil is extremely simplistic, it is essentially a pointy stick with graphite, but think about the shape of the cylinder, some have triangular shapes and some have hexagonal shapes, think of the eraser on top, why on top and not sideways? and why a hexagon and not a plain cylinder? Questions like this are asked by designers everyday, making a good product or plaining a meeting requires design, a poor design will lead to inconvenience or potentially to harm. A poorly designed car can lead to an accident by an unexpected blind spot, but some designs are set out to work against our interests.
+
+The problem of obesity can be solved by clever design, but it can also be amplified by manipulative tactics: For example those shelfs in convenience stores and supermarkets field with candy, for some reason they always seem to be closest to the cashier and to the hight of children, or the salt peanuts being provided for free in a bar. These are examples of harmful design, a child will bother the parent to buy candy because its so low that the child can hand it to the parent and bars give out salty snacks to make you want to buy a drink. If we define good design as design that serves its function, then candy shelves and free peanuts are good design, they serve their goal: to drive sales, these practices are "good design"in this way, but they are also harmful design, because they serve their purpose at the expense of the consumer.
+
+Thinking about harm outside of physical pain is a strange concept at first, but _if the goal of an action is to make someone else worse off than before_ then that action is considered harmful, since this definition accounts for more than just one type of harm (physical pain) we can say it has more explanatory power, and therefore it serves as a better definition. Making someone worse off purposefully also accounts for psychological damage, abuse of power and discrimination, with this new definition we can classify accessible candy and free peanuts as harmful, other examples of harmful design exist but here we will focus on the digital.
+
+Consider a movie review website through the filter of ethics, is it intrinsically wrong to review works of art online? To answer this question we must look at three main points: _Intent, methodology and results_, if the intent of a movie review blog is to only give bad review to the films of one director to belittle his message then we can say he has bad intent, now if a movie blog publishes an opinion peace about an independent film, this is no a very well known film and the writer gives praise to the movie with intentions this movie takes off in popularity, well then he is working in good faith, but if to make his point on how beautiful the shots are and how stunning the attention to detail is in the costume design he has to take a picture of the film to then publish the pictures with his blog to help his thesis, his intentions are pure but if to make a point the author is infringing on copyright then his case is suddenly not as good, a third online review does not violate copyright law and has good intentions but regardless of the fact of his honest work he might trigger a chain of events leading to a morally questionable result.
+
+An example of the latter may be hard to come by, especially since measuring the results of any given outcome will be spread into two main categories: Those who agree that action X lead to an immoral results and those who disagree, regardless if you consider yourself a moral relativist or a moral objectivist you must acknowledge that since morality is ever-changing the discussion of ideas is crucial to perusing moral truth, to realize if the world we are creating is a desirable one we must start talking now.
+
+
+> **Extra resources:**
+>
+> Learn about [moral objectivism and relativism and metaethics on this video lesson by  PBS Digital Studios](https://www.youtube.com/watch?v=FOoffXFpAlU)
+
+Consider the case of _Alex Jones_, now before we continue let's keep in mind that I am not afraid of touching taboo topics or controversial opinions, not to long ago I used Richard Dawkins's debate response to bridge together the topic of the origins of the term _"meme"_ with an introduction to harmful ideas and design, the ideas publicly sported by Richard are highly controversial and by only mentioning his name I risk being but inside a box: _"He supports this person or candidate so I will disregard his opinion without second thought"_ is part of the internal monologue promoted by identity politics, the factory workers going on strike is not helpful productivity-wise, and if we wish to push the boundaries of whats consider moral we mus open our minds to the other side of the argument too. 
+
+Now back to Jones, Alex Jones is an independent radio host and news show host, some consider him a journalist and others consider him a conspiracy theorist. Let's try to empathize with Alex, we will examine his case but not his politics or wherever he is right or wrong on his views, let's amuse Alex Jones considers himself an honest person and that he genuinely believes on the reports he broadcasts, in that case then Jones has good intentions and he has done nothing strictly illegal by broadcasting his opinions, now lets be more specific: Let's talk _Pizzagate_, back in 2016 the email account of John Podesta was hacked, Podesta is most popularly known as the Hillary Clinton presidential campaign manager, one of his emails refereed something called _Spirit Cooking_, in context spirit cooking refers to having a nice meal, but when looking at anther email some people interpreted as a satanic ritual of sort that takes place in a small pizza place, said rituals include child pornography and other servilely provocative accusations, this is were the name Pizzagate comes from, as a combination of pizza and water-gate. This interpretation was in part popularized by Alex Jones on his show, Alex is also famous for his news delivery style, he likes to report on a big story on how terrorists or any other antagonistic vague figure is out to get you and to destroy society, then he makes a call to action to "fight" or "resist" the evil plans of "the enemy", mostly by adversing his own personal products to support the show, the most famous example is when Alex Jones claimed that _"the government is putting chemicals in the water that turns the frogs gay"_ and then doing an ad-read for his personal brand of water filters.
+
+Because Jones is often too aggressive on his call to action some fans have taken his reports to the next step and tried to take justice in their own hands, in the case of pizzagate on December 2016 Edgar Maddison went to self investigate inside the pizza store with a firearm, while no one was injured Edgar did fire his weapon three times. This resulted in the general public turning against ALex Jones and the ideas portrayed in his show and several lawsuits followed since.
+
+
+<!-- Gimlet. (2016, December 8). Voyage Into Pizzagate by Reply All. Retrieved from https://www.gimletmedia.com/reply-all/83-voyage-into-pizzagate -->
+
+From the perspective of Alex, this situation lost control, he (probably) intended to warn the people of a corrupt government controlled by external forces, in the voyage for justice within legal broadcast laws Alex had broken no rules and intended a positive change in the world, exactly the opposite he created, still with good intentions and methods the consequences of his actions called for assault of an innocent pizza worker.
+
+Users, creators and developers on the Internet must ask themselves these three basic questions about the morality of their work: We have to self examine our _Intent, methodology and results_. These three points help us evaluate the consequences of our actions and creations online, the question of ethics is a complex one, it's not a matter of black and white but rather of better of worse, we must learn to identify the different shades of gray in the scale of morality and ethics, otherwise we enter the weeds of _us versus them_ and we give in to identity politics and the separation and division of culture.
+
+In the same way that villainous historical figures don't view themselves as evil, E.g Hitler saw himself as fighting for a good cause but his actions were a kind of _nesesary evil_ to better society, in that same way various tech giants think of themselves as doing work for the world, some of their employees acknowledge the harm their products do to society but reconcile it as a _nesesary evil_, in fact even some portion of their users think of their actions as a _nesesary evil_. In the debate of environmentalism versus the average technology enthusiast the point may be raised that some minerals needed for the fabrications of processors and other components of smart-phones and computers are drying the earth's natural resources and that even most mining operations are made in war or conflict zones, resulting in thousands of deaths for the purpose of manufacturing a black rectangles that we are going to throw away in 5 years, environmentalist asks: Is this desirable?
+
+The most common response by the tech enthusiast usually is: _"Well what is the alternative? Technology may cause suffering but is also a great tool for good"_, said argument can boil down to: _"That's just a necessary evil"_.
+
+
+With our three main points for measuring the ethics of any given action we can analyze the field of making a smartphone: Smartphones are generally made with a mixed bag of intentions, some innovate for desire for a better user experience or to further connect people around the globe, but the majority of companies design and manufacture a new model of phone each year simply for monetary reasons, on one hand a company has to make money to keep food on the table of their employees but on the other some companies are clearly abusing their position as a mono/duopoly and driven by greed, that covers intent, now for methodology we find ourselves another mixed bag, some companies have very strict policies on keeping their production line green and free of ethical injustices, while other companies couldn't care less about the environment or their employee's health, the results are also really confusing and mixed, phones and tablets do connect the world, but they are also partly responsible for addiction, depression and other social problems driven by the systems built on top of our phones.
+
+We can conclude that in the most broad and general way of referring to smartphones they are mostly neutral, for sure there are bad reasons behind making them and their negative effects on society are huge but they also have their upsides. Technology is just a tool, we are responsible for using it for good, phones and other electronics aren't inherently evil or good, they are tools for great potential to do both, just like salty peanuts, they are not evil or good by nature, but when we use them in a way that results on mostly negative consistences they become harmful by design. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- 
 
-
-
-
-
-
-
-trasnition to mind viruses (memes)
 
 social media platforms and social presure, adiction by design
 
