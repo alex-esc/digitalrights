@@ -1,5 +1,26 @@
 # Chapter one - Internet Culture
 
+<!--
+NOTES:
+
+
+
+
+ON PDF LATEX COMPILE REMOVE
+
+_"μίμημα"_ pronounced as _mīmēma_ [míːmɛːma]
+
+THEN COMPILE
+
+
+
+
+
+
+
+-->
+
+
 ## The web's missing link
 
 Have you ever wondered were do the Internet memes or funny pictures on your phone came from? who made them and why? We know that pictures, jokes and other works of art have to come from someone, usually the question stops here, we came up with an answer and no further discussion is needed, but is this really a satisfactory answer? Media literacy attempts to answer these questions and explore communications mediums and their impact on people. To explore Ethics with a digital perspective means to speak the language before we can ask difficult questions, we must understand the social and technical aspects of the web and software to truly identify problems and to find solutions.
@@ -157,6 +178,28 @@ The spread and evolution of genetic information is carried _through the media of
 
 
 
+<!--
+
+
+
+
+
+ON PDF LATEX COMPILE REMOVE
+
+_"μίμημα"_ pronounced as _mīmēma_ [míːmɛːma]
+
+THEN COMPILE
+
+
+
+
+
+
+
+-->
+
+
+
 The word meme itself is contrived from the Greek word _"μίμημα"_ pronounced as _mīmēma_ [míːmɛːma], it means _to imitate_ or _mimic_, a way to think of it is mimmic-gene or meme for short. Memes go way back, since all ideas are essentially fighting for survival in our minds only the best ideas will be remembered, a classic example of a good meme is clothing, since it was such a good idea to protect our delicate bodies from the outside world we never went back, this meme has engraved itself into our minds. 
 
 
@@ -184,6 +227,8 @@ The main takeaway from this reply is that not because something is popular or in
 ## Harmful by design
 
 To be critical of the systems on the Internet means to be honest with ourselves regarding design, look around, everything around you except the natural world was purposely designed to fulfill some function or for it's aesthetic value. A pencil is deigned to be ergonomic, yeah indeed the design of a pencil is extremely simplistic, it is essentially a pointy stick with graphite, but think about the shape of the cylinder, some have triangular shapes and some have hexagonal shapes, think of the eraser on top, why on top and not sideways? and why a hexagon and not a plain cylinder? Questions like this are asked by designers everyday, making a good product or plaining a meeting requires design, a poor design will lead to inconvenience or potentially to harm. A poorly designed car can lead to an accident by an unexpected blind spot, but some designs are set out to work against our interests.
+
+
 
 The problem of obesity can be solved by clever design, but it can also be amplified by manipulative tactics: For example those shelfs in convenience stores and supermarkets field with candy, for some reason they always seem to be closest to the cashier and to the hight of children, or the salt peanuts being provided for free in a bar. These are examples of harmful design, a child will bother the parent to buy candy because its so low that the child can hand it to the parent and bars give out salty snacks to make you want to buy a drink. If we define good design as design that serves its function, then candy shelves and free peanuts are good design, they serve their goal: to drive sales, these practices are "good design"in this way, but they are also harmful design, because they serve their purpose at the expense of the consumer.
 
@@ -218,9 +263,44 @@ The most common response by the tech enthusiast usually is: _"Well what is the a
 
 With our three main points for measuring the ethics of any given action we can analyze the field of making a smartphone: Smartphones are generally made with a mixed bag of intentions, some innovate for desire for a better user experience or to further connect people around the globe, but the majority of companies design and manufacture a new model of phone each year simply for monetary reasons, on one hand a company has to make money to keep food on the table of their employees but on the other some companies are clearly abusing their position as a mono/duopoly and driven by greed, that covers intent, now for methodology we find ourselves another mixed bag, some companies have very strict policies on keeping their production line green and free of ethical injustices, while other companies couldn't care less about the environment or their employee's health, the results are also really confusing and mixed, phones and tablets do connect the world, but they are also partly responsible for addiction, depression and other social problems driven by the systems built on top of our phones.
 
-We can conclude that in the most broad and general way of referring to smartphones they are mostly neutral, for sure there are bad reasons behind making them and their negative effects on society are huge but they also have their upsides. Technology is just a tool, we are responsible for using it for good, phones and other electronics aren't inherently evil or good, they are tools for great potential to do both, just like salty peanuts, they are not evil or good by nature, but when we use them in a way that results on mostly negative consistences they become harmful by design. 
+We can conclude that in the most broad and general way of referring to smartphones they are mostly neutral, for sure there are bad reasons behind making them and their negative effects on society are huge but they also have their upsides. Technology is just a tool, we are responsible for using it for good, phones and other electronics aren't inherently evil or good, they are tools with great potential to do both, just like salty peanuts, they are not evil or good by nature, but when we use them in a way that results on mostly negative consistences they become harmful by design. 
 
 
+>**Learn more about design**
+>
+> [Read articles and listen to podcasts about design](https://99percentinvisible.org/)
+
+
+
+
+
+
+
+## Whatever goes on the Internet
+
+
+
+Now that we understand the basis of creativity (to copy, transform and combine), how those newly created ideas spread similarly to genes and to identify harmful ideas we can be critical about specific platforms and systems. The average Internet citizen counters various sites and systems in his day to day life.
+
+Think about your morning routine, what is the first thing you do on any given day? the most probable answer is that you check your phone. According to a survey done by ReportLinker Insight on January 2017, 45% of Americans use their phone in bed just as they wake up, early bird phone usage goes up to 66% if the user is of the ages between 18 and 24. With estimated 55.1% of the entire world population using the Internet by 2018 the impact of the Internet is gigantic, most of the users will only get to know a small chuck of the web since the common user only delves with the products of tech behemoths like Google, Facebook, Amazon, Microsoft and Apple.
+
+
+
+<!-- ReportLinker. (2017, January 26). U.S. Smartphone Users Statistics in 2017: A 'Round-the-Clock' Connection. Retrieved from https://www.reportlinker.com/insight/smartphone-connection.html -->
+
+
+
+<!-- Internet World Stats. (n.d.). Retrieved from https://internetworldstats.com/stats.htm -->
+
+If you are a new Internet user and you want to get to know more about it, what do you do? well after we get familiarized with a few technical details like what devices you you need to access the Internet, how to actually get connection from a provider, how to set up WiFi and how to use a web browser your first instinct is just to open up your browser and ask it anything.
+
+Answering questions was traditionally done by independent websites, someone with a passion project would make a site about some specific topic and it was the user's job to find these sites if they seek answers, but finding them was really hard, especially because websites are like home addresses but without a logical order, websites are located on domains, these are usually refereed to as links, because when a website mentions another site you can click on it and it will link you to it, so to discover a new site you had to know the link for example you had to memorize that _https://alex-esc.github.io/read.digitalrights/_ is the link for reading this project, you'd find you because of word of mouth or because some other website you do recognize mentioned it.
+
+Today we have search engines, they are websites that use algorithms to analyze one page, they search for pages that mention other pages, and more pages mentioned on those pages and so on, after a search engine had scraped all that information it categorizes it like a phone book with search functionality.
+
+If you have a Windows computer and you use the default web browser then your questions will be answered with the bing search engine, bing is in fact owned by Microsoft the creators of Windows. If you use any other browser like Chrome, Safari or Firefox then you might be more familiar with the Google search engine. If you are a more casual Internet user maybe you use whatever program is installed as long as it works, or any search engine as long as you get the results you like, but if you know any technology enthusiast you might have heard him lecture about how Chrome is so much better, how everybody uses CHrome so you should too and so on.
+
+First of all, if you are the one pressuring your friends into using Google, please stop, it's annoying and doesn't help the free market's invisible hand. And as a second point just note how search engines are the gatekeepers of the web, all information ever known to man is free for everyone with an Internet connection to access _as long as you ask a search engine_.
 
 
 
@@ -242,7 +322,7 @@ We can conclude that in the most broad and general way of referring to smartphon
 <!-- 
 
 
-social media platforms and social presure, adiction by design
+social media platforms and social presure, adiction by design (doneboi)
 
 Search engines
 

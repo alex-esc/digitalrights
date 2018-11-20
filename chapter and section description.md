@@ -26,3 +26,5 @@ If you consider yourself ready, feel free to skip to as section of your interest
 >**Sharing and remix** - Creativity comes from a special place, not one of creative genius but of recycling and remixing previous ideas, and turning them into something new, this section explains remixing and the three basic components of creativity.
 
 >**It rimes with gene** - If remix culture is so important, then how do ideas and creative works spread? the answer is memes and their biological counterpart genes.
+
+>**Harmful by design** - Ideas and systems have outcomes, some positive and others reprehensible, some systems may be designed to do harm in one way or another, I propose 3 points to identify bad ideas and harmful design: Intent, methodology and results

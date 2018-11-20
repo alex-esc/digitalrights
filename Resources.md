@@ -58,7 +58,12 @@
 		* Link:	https://www.youtube.com/watch?v=o_Sr96TFQQE
 			* Source: Harvard Law School's Youtube (2014, October 23). Lawrence Lessig Interviews Edward Snowden. Retrieved from https://www.youtube.com/watch?v=o_Sr96TFQQE
 			
+## Debates
 
+* Artificial intelligence: the risks could outweigh the rewards
+	* A moderated debate between Jaron Lanier, Andrew Keen, James Hughes & Martine Rothblatt, the motion in question: The risks of A.I. could outweigh the rewards. As technology rapidly progresses, some proponents of artificial intelligence believe that it will help solve complex social challenges and offer immortality via virtual humans. But AI’s critics are sounding the alarm, going so far as to call its development an “existential threat” to mankind. Is this the stuff of science fiction? Could the “Terminator” become reality, or will these fears prevent the next technological revolution?
+		* Link:	URL
+			* Source: Intelligence squared. (2016, August 24). Artificial Intelligence: The Risks Could Outweigh the Rewards. Retrieved from https://www.intelligencesquaredus.org/debates/artificial-intelligence-risks-could-outweigh-rewards
 			
 ## Audio
 
@@ -68,3 +73,14 @@
 	* Panel on copyright unforeseen consequences and alternatives
 		* Link:	https://archive.org/details/Ambition-DigitalRightsAndWrongs
 			* Source: AmbITion - digital rights and wrongs : Free Download, Borrow, and Streaming. (n.d.). Retrieved from https://archive.org/details/Ambition-DigitalRightsAndWrongs
+			
+
+
+* Digital Humanism from the Waking Up Podcast, episode #136
+	* In this episode of the Waking Up podcast, Sam Harris speaks with Jaron Lanier about the economics, politics, and psychology of our digital lives. They discuss the insidious idea that information should be free, what we should want from an advanced economy, the role of advertising, libertarianism in Silicon Valley, the problems with social media, and other topics.
+		* Link:	https://samharris.org/podcasts/136-digital-humanism/
+			* Source: S. H., Doctor. (2018, August 30). Waking Up Podcast #136 - Digital Humanism. Retrieved from https://samharris.org/podcasts/136-digital-humanism/
+			
+			
+
+
