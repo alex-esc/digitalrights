@@ -6,10 +6,19 @@
 		* Link:	URL
 			* Source: APA
 
+| NAME 			  | [link]()      |
+|:----------------|:--------------|
+|  DESCRIPTION    |  Source: APA  |
 
 -->
 
 ## Literature
+
+
+| What is free software? 			  | [link](https://www.gnu.org/philosophy/free-sw.html)      |
+|:----------------|:--------------|
+|  Introduction to the Free Software Movement and it's ideals.    |  R. S., Professor. (n.d.). What is free software? Retrieved from https://www.gnu.org/philosophy/free-sw.html  |
+
 
 * What is free software?
 	* Introduction to the Free Software Movement and it's ideals.
