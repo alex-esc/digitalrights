@@ -73,6 +73,12 @@ SOURCE: Book Sprint (may 19, 2016). Cost of Freedom. Publisher: Lulu.com.
 ## Talks
 
 
+
+<!-- https://www.ted.com/talks/manoush_zomorodi_how_boredom_can_lead_to_your_most_brilliant_ideas#t-935192 -->
+
+
+
+
 | re:publica 2017 - #freebassel : The cost of loving free culture 			  | [Source](https://www.youtube.com/watch?v=iDPob0BpF9k)    |
 |:----------------|:--------------|
 |  Video explanation of Bassel Khartabil's case.    |  Source: Re:publica. (2017, May 16). Re:publica 2017 - #freebassel : The cost of loving free culture. Retrieved from https://www.youtube.com/watch?v=iDPob0BpF9k  |
@@ -97,6 +103,10 @@ DESCRIPTION: Former "young Republican" Larry Lessig talks about what Democrats c
 LINK: https://www.ted.com/talks/lessig_nyed
 SOURCE: Lessig, L. (2010, April). Re-examining the remix. Retrieved from https://www.ted.com/talks/lessig_nyed, transcript: https://www.ted.com/talks/lessig_nyed/transcript
 -->
+
+
+
+<!-- https://www.youtube.com/watch?v=moLLHxxD0JM -->
 
 
 
