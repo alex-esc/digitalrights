@@ -1,23 +1,13 @@
 # Chapter one - Internet Culture
 
+<!-- TAGS ::: TECHNICAL NOTES  -->
+
 <!--
-NOTES:
-
-
-
-
 ON PDF LATEX COMPILE REMOVE
 
 _"μίμημα"_ pronounced as _mīmēma_ [míːmɛːma]
 
 THEN COMPILE
-
-
-
-
-
-
-
 -->
 
 
@@ -27,16 +17,22 @@ Have you ever wondered were do the Internet memes or funny pictures on your phon
 
 On our everyday life we enjoy discussing movies, music and other commercial products.Items such as movies, music, literature are media, media is the vehicle that delivers any kind of communication, if we want to say any message it has to be said verbally, that's media, if I wish to spread my message through the television or the Internet, that's media. The majority of us have a fascination for a specific movie, artist or celebrity, talking about media means criticizing and analyzing but very few of us create media rather than consuming it. Or at least this was the case before the Internet: Today more people than ever are creating something new, if you want to write you can open a blog, if you want to make a movie you can open a YouTube account, and little by little more people are getting involved in making new stuff. If you don't consider yourself a creative person you are still involved in making new original works, in past days when we wanted to share a particular moment or story we remembered it and speak about it, today the average teenage docent just chat about cool occurrences or stories, they capture them with apps like Snapchat, Snstagram or Whatsapp, these programs allow you to place stickers over the video or photo, you can add drawings or emojis and text, what was just a regular video was creatively transformed into something bigger than the sum of its parts.
 
+
+<!-- TAGS ::: For educators | food for thought  -->
+
+<!--
 > **For educators & food for thought:**
 >
 > What professions don't need creativity at all, are there any examples? why?
-
-<!-- 
-
-Create Your Own. (n.d.). Retrieved from https://www.snapchat.com/create
-
 -->
 
+
+
+<!-- TAGS ::: SOURCE -->
+
+<!--
+Create Your Own. (n.d.). Retrieved from https://www.snapchat.com/create
+-->
 
 
 Everyday people create content by creating and uploading their pictures, we transform content by commenting on a picture or post, we share our opinion, ask and answer questions online. The Internet is a platform driving mass communication, creativity and innovation, from a small scale Internet users are encouraged to speak their mind and on a big scale users are proud to show off their artistic works.
@@ -45,17 +41,25 @@ Everyday people create content by creating and uploading their pictures, we tran
 
 Humans have a natural drive for innovation thanks to evolution but once we figured out how to fulfill our basic needs like food and shelter we begin to specialize, we dive into social, economic, artistic and more and more abstract subjects. But creativity and innovation is commonly perceived unrealistically, we tend to think of creative leaders like the stories that portray them, for example: _Isaac Newton was just stinging about minding his own business and suddenly it hit him! He felt the apple hitting his head and it gave him the hypothesis for gravity, then he ran for the lab and after countless testing he figured out the theory of gravity, just like that!_... well this story sound very heroic and all but it kind of misses the point of creativity. Stories like Isaac's or Thomas Edison tell us how their great minds had a revelation of sorts, this eureka moment is often portrayed as a spark of genius, not because all creative or scientific genius experience this moment, but because it makes a better and more memorable story.
 
+<!-- TAGS ::: For educators | food for thought -->
 
+<!--
 > **For educators & food for thought:**
 >
 > What other examples of eureka moments are there? use the Internet to verify the validity of the story.
+-->
+
 
 
 What people tend to forget is that creativity or having a great idea is not a matter of one eureka moment, creativity is an additive process. To explain with more detail I will borrow one of Richard Dawkins's allegories: Imagine the creative process is like climbing a mountain, it is very unreasonable to believe that one can get to the top of mountain creativity with one single jump, to assume all creative works are spawned out of one single leap is ridiculous, a more probable explanation is that to go to the top of mountain creativity it takes millions of small steps, the addition of every single step ads up to an achievement greater than the sum of its parts.
 
 
 
-<!-- Dawkins, R. (1997). Climbing mount improbable. New York: W.W. Norton &. -->
+<!-- TAGS ::: SOURCE -->
+
+<!--
+Dawkins, R. (1997). Climbing mount improbable. New York: W.W. Norton &.
+-->
 
 
 
@@ -64,34 +68,29 @@ To create something new is to add to an existing concept, the iPhone is nothing 
 Putting the pieces together has never been easier than with the digital landscape, with the web everyone with access can download any piece of media and combining them into something new. This is known as _remix_ in the world of music, thanks to digital recordings artists unlocked the ability to use bites of other people's songs in works of their own, this is known as sampling. The action of taking someone else's work and using part of it for your commercial benefit may sound unethical at first glance but sampling and remixes alike share one thing in common: they are transformative, for example the 1976 track 'Theme from the Planets' arranged by Dexter Wansel is an instrumental synthesizer driven jazz inspired song, the song is very upbeat and dreamy, it features Charles Collins and Joe Johnson on drums and percussion, the song is most known for it's beat, most popularly sampled on Dido's 2000 hit single 'Thank You', a more relaxed and hopeful feeling track with religious connotations, the two most popular interpretations is that the singer is ether thankful with her love interest or god, this is far from the melancholy and rap driven track 'stan' from Enimem, the track released on the year 2000 features a remixed version of the first verse from Dido's 'Thank you', the track tells the story of an obsessive character called satn who is obsessed with the real life artist Eminem and how his obsession drove him to the grave.
 
 
+<!-- TAGS ::: SOURCE -->
 
-<!-- 
-Theme from the Planets
-
+<!--
 Dexter W. (1976). Theme from the Planets [Recorded by Dexter Wansel]. On Life on Mars [mp3]. Philadelphia, Pennsylvania:  Sigma Sound Studios
-
-
-
-Thank You
-
 Dido (2000). Thank You [Recorded by Dido ]. On No Angel [mp3]. London, England: Dido & Rollo
-
-
-stan
-
 Eminem (2000). Stan [Recorded by Eminem]. The Marshall Mathers LP [mp3]. Aftermath / Shady / Interscope
-
 -->
 
 
 
 From a happy synth driven instrumental to a calm worship song to a gloomy rap song is as far apart as you can get. sampling and remixing is crucial for songwriting and other creative activities, in the case of music it could be argued that there is a limited number of catchy chord progressions, drum patterns and melodies and this is why picking and matching elements is key to creating a great work of art. The same holds true for literature, movies, poetry, etcetera. A remix culture is a sign of embracing creativity and in a more literal perspective, it can be concluded that innovation and inventions are essentially remixes of previously available media and technology. 
 
+
+<!-- TAGS ::: For educators | food for thought -->
+
+<!--
 > **For educators & food for thought:**
 >
 > Discuss your favorite song with a partner, then discus your partner's favorite song and look for similarities.
 >
 > Ask yourself: have all the inventions been invented? justify your answer.
+-->
+
 
 
 
@@ -113,10 +112,17 @@ In a way all stories about heroes are remixes on the so called _hero's journey_ 
 
 >  George Lucas 
 
+
+
+<!-- TAGS ::: Extra resources -->
+
+<!--
 > **Extra resources:**
 >
-> Learn more about [The Hero's Journey](https://www.quora.com/Which-movies-are-the-best-examples-of-the-Heros-Journey-or-monomyth
-)
+> Learn more about [The Hero's Journey](https://www.quora.com/Which-movies-are-the-best-examples-of-the-Heros-Journey-or-monomyth)
+-->
+
+
 
 
 Stories, structures and archetypes are the foundation of all stories, and to remix is analogous to the creative process, just think on all the movies, books, music that is based on another creative work, filmmaker Kirby Ferguson said it best on his classic 2010 video essay 'Everything is a Remix'. Ferguson argues that to remix you need to: _copy, transform and combine_.
@@ -126,20 +132,21 @@ Stories, structures and archetypes are the foundation of all stories, and to rem
 > Kirby Ferguson at TEDGlobal 2012
 
 
-<!-- Ferguson, K. (n.d.). Embrace the remix. Retrieved from https://www.ted.com/talks/kirby_ferguson_embrace_the_remix -->
-
+<!-- TAGS ::: SOURCE -->
 
 <!--
-Ferguson, K. (2010, October 27). Everything is a Remix. Retrieved from https://www.youtube.com/playlist?list=PLDQ6BYd73QHxgeNJPX8yZRcp8wF_B_tph
-Original source: https://www.everythingisaremix.info/watch-the-series/
+Ferguson, K. (n.d.). Embrace the remix. Retrieved from https://www.ted.com/talks/kirby_ferguson_embrace_the_remix
+Ferguson, K. (2010, October 27). Everything is a Remix. Retrieved from https://www.youtube.com/playlist?list=PLDQ6BYd73QHxgeNJPX8yZRcp8wF_B_tph ,Original source: https://www.everythingisaremix.info/watch-the-series/
 -->
 
 
+<!-- TAGS ::: Extra resources -->
 
-
+<!--
 > **Extra resources:**
 >
 > Watch ['Everything is a Remix' by Kirby Ferguson](https://www.youtube.com/watch?v=nJPERZDfyWc) or his [TED Talk](https://www.ted.com/talks/kirby_ferguson_embrace_the_remix)
+-->
 
 
 ## It rimes with gene
@@ -150,7 +157,12 @@ Using big artists as an example for remix culture docent really gives us the ful
 Going back to the opening quote on the meaning of freedom: no fear, being free to create means no fear of punishment for creativity. Empowering to create, tearing down barriers of entry and promoting creative works are characteristics of a remix culture. On the other hand you have a consumer culture, a place that encourages the consumption of media only, being feed entrainment through the television screen constantly is a world we could create, this is also commonly refereed as a _read only culture_. Professor and political activist Lawrence Lessig coined this term of read only culture, analogous to a computer's hard drive, culture can both read and write content to itself.
 
 
-<!-- Lessig, L. (2009). Remix: Making art and commerce thrive in the hybrid economy. New York, N.Y: Penguin Books. -->
+<!-- TAGS ::: SOURCE -->
+
+<!--
+Lessig, L. (2009). Remix: Making art and commerce thrive in the hybrid economy. New York, N.Y: Penguin Books.
+-->
+
 
 
 Read - write culture and remix culture are used interchangeably due to Lawrence's analogy, in other words free culture and remix culture is a culture of innovation and creativity first. The most obvious example of constant remix and editing of content and probably the example you are most familiar with is _Internet culture_.
@@ -161,41 +173,36 @@ The interactions between Internet users begun to shift towards free culture, sin
 
 Think of it like newspaper headlines, the writer of a story or report wants their story to reach more people to increase sales and therefore their salary, so a writer asks himself: _How can I capture the most hears and minds with one story?_ Writer 'A' might write about something controversial, like politics, and writer 'B' may make a story about something popular like a celebrity pop star. Both articles A & B are fighting for the publics attention and only the more interesting article will win in the end, writers like Jeff Weiss won the attention of the public on October 30 2018 by combining politics and pop stars by writing an article on r&b and rap artist Post Malone and comparing him to Donald Trump among other allegations. Articles from writers A and B are entities fighting for survival via natural selection by the public reader, the ideas behind the articles combined and evolved to form article C. These parallels help un-clutter the field, and we can see the similarities between the spread of popular ideas and natural selection and evolution.
 
+<!-- TAGS ::: SOURCE -->
 
-
-<!-- Weiss, J. (2018, October 30). Post Malone is the perfect pop star for this American moment. That's not a compliment. Retrieved from https://www.washingtonpost.com/lifestyle/post-malone-is-the-perfect-pop-star-for-this-american-moment-thats-not-a-compliment/2018/10/30/ad6112b8-dbc4-11e8-b732-3c72cbf131f2_story.html?utm_term=.49b24273ed29 -->
+<!--
+Weiss, J. (2018, October 30). Post Malone is the perfect pop star for this American moment. That's not a compliment. Retrieved from https://www.washingtonpost.com/lifestyle/post-malone-is-the-perfect-pop-star-for-this-american-moment-thats-not-a-compliment/2018/10/30/ad6112b8-dbc4-11e8-b732-3c72cbf131f2_story.html?utm_term=.49b24273ed29
+-->
 
 
 
 The spread and evolution of genetic information is carried _through the media of genes_, while the spread and evolution of ideas in the general scene is carried _through the media of memes_. Genes carry genetic information while memes carry cultural information, to drive the point further Dictionary.com defines a meme as: "_a cultural item that is transmitted by repetition and replication in a manner analogous to the biological transmission of genes._" The term _meme_ was coined by evolutionary biologist Richard Dawkins on his book tittled _The Selfish Gene_ in 1976.
 
 
-<!-- Meme. (n.d.). Retrieved from https://www.dictionary.com/browse/meme -->
-
-
-
-<!-- Dawkins, R. (1976). The selfish gene. Oxford: Oxford University Press. -->
-
-
+<!-- TAGS ::: SOURCE -->
 
 <!--
+Meme. (n.d.). Retrieved from https://www.dictionary.com/browse/meme
+Dawkins, R. (1976). The selfish gene. Oxford: Oxford University Press.
+-->
 
 
 
 
 
+<!-- TAGS ::: TECHNICAL NOTES -->
+
+<!--
 ON PDF LATEX COMPILE REMOVE
 
 _"μίμημα"_ pronounced as _mīmēma_ [míːmɛːma]
 
 THEN COMPILE
-
-
-
-
-
-
-
 -->
 
 
@@ -203,8 +210,11 @@ THEN COMPILE
 The word meme itself is contrived from the Greek word _"μίμημα"_ pronounced as _mīmēma_ [míːmɛːma], it means _to imitate_ or _mimic_, a way to think of it is mimmic-gene or meme for short. Memes go way back, since all ideas are essentially fighting for survival in our minds only the best ideas will be remembered, a classic example of a good meme is clothing, since it was such a good idea to protect our delicate bodies from the outside world we never went back, this meme has engraved itself into our minds. 
 
 
+<!-- TAGS ::: SOURCE -->
 
-<!-- Meme. (2018, November 06). Retrieved from https://en.wikipedia.org/wiki/Meme#Etymology -->
+<!--
+Meme. (2018, November 06). Retrieved from https://en.wikipedia.org/wiki/Meme#Etymology
+-->
 
 
 The intersection between ethics and evolution can quickly diverge into heated debate, mainly due to religion, practically all religions claim that their particular deity or god is the author of morals and ethics, also most religions also hold belief in a creation myth incompatible with evolution, for example the Christian bible claims that Adam was created as a fully formed man in a small period of time, but evolution claims that species change slowly. This is the conflict that religion faces with evolution: was man formed in an instant or over millions of years?
@@ -216,8 +226,11 @@ Richard replied:
 >"_I very much hope we don´t revert back to the idea of survival of the fittest in planing our politics and our values and our way of life. I´ve often said that i´m a passionate Darwinian when it comes to explaining why we exist, it´s undoubtedly the reason why we´re here and why all living things are here. But to live our lives in a darwinian way, to make up a society a Darwinian society, that would be a very unpleasant sort of society in which to live, it will be a sort of thatcher, right? and in a way I feel that one of the lessons of learning about Darwinian evolution is a lesson in how not to set up our values and social life._"
 
 
+<!-- TAGS ::: SOURCE -->
 
-<!-- Religion and Atheism. (2012, April 9). Retrieved from https://www.abc.net.au/tv/qanda/txt/s3469101.htm -->
+<!--
+Religion and Atheism. (2012, April 9). Retrieved from https://www.abc.net.au/tv/qanda/txt/s3469101.htm
+-->
 
 
 This robust reply can be summed up as a simple phrase: not because its nature it means it's OK, just because something is popular it means it's good, in the case of this argument Darwinian evolution it's whats "_so popular_", the question can be rephrased as:"_If you believe in evolution so much that you claim it to be true, then why don't we live in a Darwinian society?_" and Ricahrd answer can be rephrased as: "_Not because evolution created modern humans it means that people should behave like survival of the fittest_".
@@ -239,9 +252,17 @@ Consider a movie review website through the filter of ethics, is it intrinsicall
 An example of the latter may be hard to come by, especially since measuring the results of any given outcome will be spread into two main categories: Those who agree that action X lead to an immoral results and those who disagree, regardless if you consider yourself a moral relativist or a moral objectivist you must acknowledge that since morality is ever-changing the discussion of ideas is crucial to perusing moral truth, to realize if the world we are creating is a desirable one we must start talking now.
 
 
+
+<!-- TAGS ::: Extra resources -->
+
+<!--
 > **Extra resources:**
 >
 > Learn about [moral objectivism and relativism and metaethics on this video lesson by  PBS Digital Studios](https://www.youtube.com/watch?v=FOoffXFpAlU)
+
+-->
+
+
 
 Consider the case of _Alex Jones_, now before we continue let's keep in mind that I am not afraid of touching taboo topics or controversial opinions, not to long ago I used Richard Dawkins's debate response to bridge together the topic of the origins of the term _"meme"_ with an introduction to harmful ideas and design, the ideas publicly sported by Richard are highly controversial and by only mentioning his name I risk being but inside a box: _"He supports this person or candidate so I will disregard his opinion without second thought"_ is part of the internal monologue promoted by identity politics, the factory workers going on strike is not helpful productivity-wise, and if we wish to push the boundaries of whats consider moral we mus open our minds to the other side of the argument too. 
 
@@ -250,7 +271,12 @@ Now back to Jones, Alex Jones is an independent radio host and news show host, s
 Because Jones is often too aggressive on his call to action some fans have taken his reports to the next step and tried to take justice in their own hands, in the case of pizzagate on December 2016 Edgar Maddison went to self investigate inside the pizza store with a firearm, while no one was injured Edgar did fire his weapon three times. This resulted in the general public turning against ALex Jones and the ideas portrayed in his show and several lawsuits followed since.
 
 
-<!-- Gimlet. (2016, December 8). Voyage Into Pizzagate by Reply All. Retrieved from https://www.gimletmedia.com/reply-all/83-voyage-into-pizzagate -->
+<!-- TAGS ::: SOURCE -->
+
+<!--
+Gimlet. (2016, December 8). Voyage Into Pizzagate by Reply All. Retrieved from https://www.gimletmedia.com/reply-all/83-voyage-into-pizzagate
+-->
+
 
 From the perspective of Alex, this situation lost control, he (probably) intended to warn the people of a corrupt government controlled by external forces, in the voyage for justice within legal broadcast laws Alex had broken no rules and intended a positive change in the world, exactly the opposite he created, still with good intentions and methods the consequences of his actions called for assault of an innocent pizza worker.
 
@@ -265,14 +291,13 @@ With our three main points for measuring the ethics of any given action we can a
 
 We can conclude that in the most broad and general way of referring to smartphones they are mostly neutral, for sure there are bad reasons behind making them and their negative effects on society are huge but they also have their upsides. Technology is just a tool, we are responsible for using it for good, phones and other electronics aren't inherently evil or good, they are tools with great potential to do both, just like salty peanuts, they are not evil or good by nature, but when we use them in a way that results on mostly negative consistences they become harmful by design. 
 
+<!-- TAGS ::: learn more -->
 
+<!--
 >**Learn more about design**
 >
 > [Read articles and listen to podcasts about design](https://99percentinvisible.org/)
-
-
-
-
+-->
 
 
 
@@ -285,12 +310,13 @@ Now that we understand the basis of creativity (to copy, transform and combine),
 Think about your morning routine, what is the first thing you do on any given day? the most probable answer is that you check your phone. According to a survey done by ReportLinker Insight on January 2017, 45% of Americans use their phone in bed just as they wake up, early bird phone usage goes up to 66% if the user is of the ages between 18 and 24. With estimated 55.1% of the entire world population using the Internet by 2018 the impact of the Internet is gigantic, most of the users will only get to know a small chuck of the web since the common user only delves with the products of tech behemoths like Google, Facebook, Amazon, Microsoft and Apple.
 
 
+<!-- TAGS ::: SOURCE -->
 
-<!-- ReportLinker. (2017, January 26). U.S. Smartphone Users Statistics in 2017: A 'Round-the-Clock' Connection. Retrieved from https://www.reportlinker.com/insight/smartphone-connection.html -->
+<!--
+ReportLinker. (2017, January 26). U.S. Smartphone Users Statistics in 2017: A 'Round-the-Clock' Connection. Retrieved from https://www.reportlinker.com/insight/smartphone-connection.html
+Internet World Stats. (n.d.). Retrieved from https://internetworldstats.com/stats.htm
+-->
 
-
-
-<!-- Internet World Stats. (n.d.). Retrieved from https://internetworldstats.com/stats.htm -->
 
 If you are a new Internet user and you want to get to know more about it, what do you do? well after we get familiarized with a few technical details like what devices you you need to access the Internet, how to actually get connection from a provider, how to set up WiFi and how to use a web browser your first instinct is just to open up your browser and ask it anything.
 
@@ -316,12 +342,9 @@ First of all, if you are the one pressuring your friends into using Google, plea
 
 
 
+<!-- TAGS ::: WRITING NOTES -->
 
-
-
-<!-- 
-
-
+<!--
 social media platforms and social presure, adiction by design (doneboi)
 
 Search engines
@@ -342,9 +365,4 @@ problems with copyright
 # Enter software
 
 software patents
-
- -->
-
-
-
-
+-->
