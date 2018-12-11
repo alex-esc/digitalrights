@@ -109,7 +109,18 @@ SOURCE: Lessig, L. (2010, April). Re-examining the remix. Retrieved from https:/
 <!-- https://www.youtube.com/watch?v=moLLHxxD0JM -->
 
 
+| The Need for a New Design Ethics 			  | [Source](http://www.tristanharris.com/the-need-for-a-new-design-ethics/)    |
+|:----------------|:--------------|
+|  Tristan Harris explains how never before in history have such a small number of designers – a handful of young, mostly male engineers, living in the Bay Area of California, working at a handful of tech companies – had such a large influence on two billion people’s thoughts and choices.    |  T. H. (2017, July 26). The Need for a New Design Ethics. Retrieved from http://www.tristanharris.com/the-need-for-a-new-design-ethics/  |
 
+
+
+<!--
+NAME: The Need for a New Design Ethics
+DESCRIPTION: Tristan Harris explains how never before in history have such a small number of designers – a handful of young, mostly male engineers, living in the Bay Area of California, working at a handful of tech companies – had such a large influence on two billion people’s thoughts and choices.
+LINK: http://www.tristanharris.com/the-need-for-a-new-design-ethics/
+SOURCE:T. H. (2017, July 26). The Need for a New Design Ethics. Retrieved from http://www.tristanharris.com/the-need-for-a-new-design-ethics/
+-->	
 
 
 ## News articles / reports
