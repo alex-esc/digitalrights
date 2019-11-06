@@ -2,34 +2,24 @@
 
 This is a writeup about human rights and ethics applied to the Internet, intended to work as a standalone literature work aimed at complete beginners on the topic.
 
+This work is divided into a series of essays, covering topics like the attention economy, a philosophical understanding of privacy, history of computing and digital culture & many more.
 
 ## Read it online
 
-At the moment this project is very small and incomplete, for now you can use it as a jumping of point to learn about new concerns and ideas about the digital world, you can also read what I've written so far on my website:
+At the moment this project is very small and incomplete, for now you can use it as a jumping of point to learn about new concerns and ideas about the digital world, you can also read what I've written so far online:
 
 
 # [alex-esc.github.io/read.digitalrights/](https://alex-esc.github.io/read.digitalrights/)
 
-## Download a copy
-
-* [PDF](https://github.com/alex-esc/read.digitalrights/releases/download/0.1/pdfcompiled.pdf)
-
-* [EPUB](https://github.com/alex-esc/read.digitalrights/releases/download/0.1/epubcompiled.epub)
-
-* [ODT](https://github.com/alex-esc/read.digitalrights/releases/download/0.1/odtcompiled.odt)
-
-* [DOCX](https://github.com/alex-esc/read.digitalrights/releases/download/0.1/docxcompiled.docx)
-
-
-
-
-## Work in progress
-
-Since this project just begun, you might need to take some things in mind and the use of some special software, In the future this work will be available as a PDF, for now instructions on how to understand this project can be found inside a file called 'Manual - how to read this book.md'
+**Or read it on the Fediverse: **
 
 ## Get notified when a new version is released
 
-Check out our [RSS feed](https://github.com/alex-esc/digitalrights/releases.atom) or join our [mailing list](https://alex-esc.github.io/read.digitalrights/updates.html).
+Follow the digital rights project on social media for updates:
+
+> https://digital-rights.github.io/socials/socialmedia.html
+
+
 
 ## Download the raw files
 
