@@ -1,0 +1,9 @@
+# To protect what you value is to be private
+
+With today's notions of data information and connectivity we can wrongfully interpret everything in said terms, in terms of data. This fixation in data privacy has somewhat muddled the waters of what digital privacy is or ought to become.
+
+Social media and digital platforms work by abstracting their fundamental purpose. If we ant to socialize, then just start talking, but if you want to build a platform to incentivize communication and interaction in the name of socializing online, then we just came one stepped removed from socializing itself. Instead of socializing now we must interact via keyboards, and keyboards through computer programs, and algorithms and like incentives and posts, comments and all the other digital buzz. This is a form of alienation, to become removed from the product or the goal by no fault of your own, but by the surrounding circumstances. Alienation has brought us so far apart from each other that we interact not with one another, but with data, pictures of, simulations of, memories of, each other frozen in time. By this logic to become private means protecting the data, the bits and files we desire.
+
+But our desire for likes, comments, texts and other abstract interactions are rooted in the people they are simulating. We're in in for the people behind the screen, but after staring deeply into the screen we forget this fact. Today's digital privacy movement has done the same, we are advocating for protecting pixels, files and folders. But it is us, people, who brought meaning into those ones and zeros in the first place.
+
+ 
